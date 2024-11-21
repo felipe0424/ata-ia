@@ -22,7 +22,7 @@ React e Node.js
 
 
 #  :computer:	Instruções
-Passe as instruções abaixo para que a equipe possa clonar e começar a trabalhar:
+Siga as instruções abaixo para que possa clonar e começar a trabalhar:
 
 1. Clonar o repositório:
 ```
