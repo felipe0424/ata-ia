@@ -26,7 +26,7 @@ Passe as instruções abaixo para que a equipe possa clonar e começar a trabalh
 
 1. Clonar o repositório:
 ```
-git clone [https://github.com/felipe0424/ata-ia.](https://github.com/felipe0424/ata-ia.git)
+git clone https://github.com/felipe0424/ata-ia.git
 ```
 
 2. Criar uma nova branch para trabalhar:
@@ -39,6 +39,7 @@ git checkout -b nome-da-branch
 git add .
 git commit -m "Descrição das alterações"
 git push origin nome-da-branch
+
 ```
 
 <!--
@@ -50,6 +51,7 @@ git push origin nome-da-branch
         <img src="https://github.com/user-attachments/assets/3fda6271-fd40-4485-bb7c-60b927b9feae" alt="GitHub" width="25">
     </a>
 </div> -->
+
 
 > [!WARNING]
 > Este código é disponibilizado exclusivamente para fins de estudo e aprendizado. A reprodução total ou parcial deste código, sem autorização prévia, é expressamente proibida. A utilização deste código em projetos comerciais, distribuição não autorizada ou qualquer outro uso que não seja educativo pode resultar em sanções legais. Ao utilizar este código, você concorda em respeitar os termos de uso e a propriedade intelectual do autor.
